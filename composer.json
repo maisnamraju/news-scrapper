@@ -1,0 +1,14 @@
+{
+    "name": "maisnamraju/scrapper",
+    "description": "webscrapper for news",
+    "require": {
+        "fabpot/goutte": "^3.1"
+    },
+    "license": "CLosed",
+    "authors": [
+        {
+            "name": "maisnamraju",
+            "email": "maisnamraju@gmail.com"
+        }
+    ]
+}
