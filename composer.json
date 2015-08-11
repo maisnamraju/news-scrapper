@@ -1,8 +1,10 @@
 {
     "name": "maisnamraju/scrapper",
-    "description": "webscrapper for news",
+    "description": "webscrapper for news",    
+    "minimum-stability": "dev",    
     "require": {
-        "fabpot/goutte": "^3.1"
+        "fabpot/goutte": "^3.1",
+        "propel/propel": "^2.0@dev"       
     },
     "license": "CLosed",
     "authors": [
